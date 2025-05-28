@@ -75,8 +75,8 @@ The project includes comprehensive documentation:
 
 ## Contribution
 This project was developed by:
-- Adil Bilal (FL21499) - Authentication, Product Management, Cart, Order Processing
-- Sana Bushra (FL21526) - Admin Panel, Payment System, GUI Development, UX Improvements
+- Adil Bilal (FL21499) - Admin Panel, Payment System, GUI Development, UX Improvements
+- Sana Bushra (FL21526) - Authentication, Product Management, Cart, Order Processing
 
 ## License
 Copyright © 2025 EZCart. All rights reserved.
